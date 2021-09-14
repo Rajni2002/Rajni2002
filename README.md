@@ -15,6 +15,6 @@
   
 # 🧑‍💻Techs that I'm familar with 
 
-![App Screenshot](https://github.com/Rajni2002/Rajni2002/blob/main/HTML.gif)
+![App Screenshot](https://github.com/Rajni2002/Rajni2002/blob/main/HTML.png)
 
   
