@@ -10,7 +10,7 @@
 • 🧑‍🎓 CSE undergrad
 
 • 🔥 I'm passioned towards Web-Dev,
- Open - source and problem solving
+ Open-source and problem solving
 
   
 # 🧑‍💻Techs that I'm familar with 
