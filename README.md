@@ -1,8 +1,20 @@
--🙏 Hi, I’m Rajnikant dash
-- 🧑‍🎓 CSE undergrad
-- 🌱 HTML, CSS, JS and C++
-- 🔥 I'm impassioned towards Web-devlopment, Open - source Contributions and problem solving
-<!---
-Rajni2002/Rajni2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Hello Contributors 👋🏼, I'm Rajni
+
+
+
+
+
+## 🚀 About Me
+
+• 🧑‍🎓 CSE undergrad
+
+• 🔥 I'm passioned towards Web-Dev,
+ Open - source and problem solving
+
+  
+# 🧑‍💻Techs that I'm familar with 
+
+![App Screenshot](https://github.com/Rajni2002/Rajni2002/blob/main/HTML.png)
+
+  
