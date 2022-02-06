@@ -9,7 +9,7 @@
 
 • 🧑‍🎓 CSE undergrad
 
-• 🔥 I'm passioned towards Web-Dev,
+• 🔥 I'm passioned towards Development,
  Open-source and problem solving
 
   
