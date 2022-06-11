@@ -7,8 +7,12 @@
 
 ## 🚀 About Me
 
-• 🧑‍🎓 CSE undergrad
+• 🧑‍🎓 CSE @ChandigarhUniversity
 
+Brushing Up :
+ • MERN stack development
+ • DSA
+ • Exploring ML
 • 🔥 I'm passioned towards Development,
  Open-source and problem solving
 
