@@ -2,19 +2,8 @@
 # Hello Contributors 👋🏼, I'm Rajni
 
 
-
-
-
 ## 🚀 About Me
 
-• 🧑‍🎓 CSE @ChandigarhUniversity
-
-Brushing Up :
- • MERN stack development
- • DSA
- • Exploring ML
-• 🔥 I'm passioned towards Development,
- Open-source and problem solving
 
   
 # 🧑‍💻Techs that I'm familar with 
