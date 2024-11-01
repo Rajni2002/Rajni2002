@@ -2,11 +2,12 @@
 
 ## 🚀 About Me
 
-- Frontend Engineering Intern @[Elpha-ai](https://elpha.ai/) 
-  - Building @[Sheetsway](https://www.linkedin.com/company/sheetsway-audit/)
+- Software engineer [spyne.ai](spyne.ai)
 - Currently Building & Forging 🛠
   - [Antimpaag](antimpaag.com/) - Community Platform for young Defence Aspirants 🇮🇳
   - [Foliofy](https://github.com/Rajni2002/foliofy) - `npm` package to build & deploy an amazing developer portfolio in 60 second ✨
+- Previously Frontend Engineering Intern @[Elpha-ai](https://elpha.ai/) 
+  - Building @[Sheetsway](https://www.linkedin.com/company/sheetsway-audit/)
 - Ex-Frontend Intern @[Everlytics](http://www.everlytics.io/)
 
 ------
